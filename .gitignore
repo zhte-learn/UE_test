@@ -1,0 +1,16 @@
+# Ignore the following Unreal Engine directories
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Ignore IDE and system-specific files
+.vs/
+.vscode/
+*.xcodeproj
+.idea/
+
+# Ignore operating system files
+.DS_Store
+Thumbs.db
